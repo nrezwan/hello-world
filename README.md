@@ -1,2 +1,2 @@
 # hello-world
-GitHub Tutorial
+Hi! My name is Rez and I love to code!
